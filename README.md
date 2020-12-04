@@ -6,3 +6,20 @@ We believe that Project Brawl is most enjoyable on a couch together with friends
 Project Brawl was developed in Unity in two weeks as a part of a game project at Futuregames, a higher vocational education for game development, in Stockholm, Sweden.
 
 Download game: https://fredrikhanses.itch.io/project-brawl
+
+Credits:
+
+Programming:
+
+    Robin Ortryd
+    Fredrik Hanses
+    Johannes Kemppainen
+    
+2D:
+
+    Carl-Victor Norberg
+    Felix Ferm
+    
+Music:
+
+    Rasmus Hartonen
